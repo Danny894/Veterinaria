@@ -25,8 +25,5 @@ El código HTML base proporciona la estructura principal de la aplicación, incl
    - `css/styles.css`: Hoja de estilos personalizada.
    - `public/js/bundle.js`: Archivo JavaScript que contiene la lógica funcional.
 
----
 
-## Estructura del proyecto
 
-/project-root ├── index.html ├── css/ │ ├── bootstrap.css │ └── styles.css ├── public/ │ └── js/ │ └── bundle.js
