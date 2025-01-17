@@ -6,6 +6,13 @@ El **Administrador de Pacientes de Veterinaria** es una aplicación web sencilla
 
 ---
 
+## Visualización del proyecto
+
+Puedes ver el proyecto en funcionamiento en el siguiente enlace:  
+[Administrador de Pacientes de Veterinaria](https://678a6d196d4e7c443e03b87e--earnest-ganache-5c7167.netlify.app/)
+
+---
+
 ## Contenido del proyecto
 
 El código HTML base proporciona la estructura principal de la aplicación, incluyendo:
@@ -24,6 +31,5 @@ El código HTML base proporciona la estructura principal de la aplicación, incl
    - `css/bootstrap.css`: Estilos proporcionados por Bootstrap para diseño responsivo.
    - `css/styles.css`: Hoja de estilos personalizada.
    - `public/js/bundle.js`: Archivo JavaScript que contiene la lógica funcional.
-
 
 
